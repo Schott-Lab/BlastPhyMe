@@ -66,12 +66,14 @@ Server 2019 Express LocalDB platform. LocalDB is a light-weight version of Micro
 database platform that is only actively running on the user’s computer if the user runs an application,
 such as BlastPhyMe, that interacts with a LocalDB database file. At other times the LocalDB software
 will not be actively running and consuming system resources.
+(https://learn.microsoft.com/en-us/sql/database-engine/configure-windows/sql-server-express-localdb)
 
-#### 2.1.3 Microsoft SQL Server 2019 Shared Management Objects
+#### 2.1.3 Microsoft SQL Server Shared Management Objects
 
 To allow the user to create their own database files, and to provide automatic updates to those
 database files when a new version of BlastPhyMe is run, BlastPhyMe requires the Shared Management
-Objects add-on for Microsoft SQL Server 2019.
+Objects add-on for Microsoft SQL Server.
+(https://learn.microsoft.com/en-ca/ssms/)
 
 ### 2.2 BlastPhyMe Installation Package
 
