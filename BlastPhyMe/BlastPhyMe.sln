@@ -7,9 +7,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pilgrimage", "..\Source Cod
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChangLab", "..\Source Code\ChangLab\ChangLab.csproj", "{5E700266-664C-4AE4-B1CE-F263619E5A0C}"
 EndProject
-Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "BlastPhyMeSetupx64", "Setup1\Setup1.vdproj", "{F5D91FD6-F519-3AC5-2EF1-6ADD62B256F6}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PilgrimageTests", "..\Source Code\PilgrimageTests\PilgrimageTests.csproj", "{2E86C728-856C-441B-8F75-8059F186AE5B}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "BlastPhyMeSetup", "..\Source Code\BlastPhyMeSetup\BlastPhyMeSetup.vdproj", "{72626F23-DCD4-F6D1-3B6F-5DA7197DB67E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,19 +75,6 @@ Global
 		{5E700266-664C-4AE4-B1CE-F263619E5A0C}.Release|x64.Build.0 = Release|x64
 		{5E700266-664C-4AE4-B1CE-F263619E5A0C}.Release|x86.ActiveCfg = Release|x86
 		{5E700266-664C-4AE4-B1CE-F263619E5A0C}.Release|x86.Build.0 = Release|x86
-		{F5D91FD6-F519-3AC5-2EF1-6ADD62B256F6}.Beta - EEB460|x64.ActiveCfg = Debug
-		{F5D91FD6-F519-3AC5-2EF1-6ADD62B256F6}.Beta - EEB460|x86.ActiveCfg = Debug
-		{F5D91FD6-F519-3AC5-2EF1-6ADD62B256F6}.Beta|x64.ActiveCfg = Debug
-		{F5D91FD6-F519-3AC5-2EF1-6ADD62B256F6}.Beta|x86.ActiveCfg = Debug
-		{F5D91FD6-F519-3AC5-2EF1-6ADD62B256F6}.Debug|x64.ActiveCfg = Debug
-		{F5D91FD6-F519-3AC5-2EF1-6ADD62B256F6}.Debug|x86.ActiveCfg = Debug
-		{F5D91FD6-F519-3AC5-2EF1-6ADD62B256F6}.Documentation|x64.ActiveCfg = Release
-		{F5D91FD6-F519-3AC5-2EF1-6ADD62B256F6}.Documentation|x86.ActiveCfg = Release
-		{F5D91FD6-F519-3AC5-2EF1-6ADD62B256F6}.EEB460|x64.ActiveCfg = Debug
-		{F5D91FD6-F519-3AC5-2EF1-6ADD62B256F6}.EEB460|x86.ActiveCfg = Debug
-		{F5D91FD6-F519-3AC5-2EF1-6ADD62B256F6}.Release|x64.ActiveCfg = Release
-		{F5D91FD6-F519-3AC5-2EF1-6ADD62B256F6}.Release|x64.Build.0 = Release
-		{F5D91FD6-F519-3AC5-2EF1-6ADD62B256F6}.Release|x86.ActiveCfg = Release
 		{2E86C728-856C-441B-8F75-8059F186AE5B}.Beta - EEB460|x64.ActiveCfg = Beta - EEB460|x64
 		{2E86C728-856C-441B-8F75-8059F186AE5B}.Beta - EEB460|x64.Build.0 = Beta - EEB460|x64
 		{2E86C728-856C-441B-8F75-8059F186AE5B}.Beta - EEB460|x86.ActiveCfg = Beta - EEB460|Any CPU
@@ -112,6 +99,18 @@ Global
 		{2E86C728-856C-441B-8F75-8059F186AE5B}.Release|x64.Build.0 = Release|x64
 		{2E86C728-856C-441B-8F75-8059F186AE5B}.Release|x86.ActiveCfg = Release|Any CPU
 		{2E86C728-856C-441B-8F75-8059F186AE5B}.Release|x86.Build.0 = Release|Any CPU
+		{72626F23-DCD4-F6D1-3B6F-5DA7197DB67E}.Beta - EEB460|x64.ActiveCfg = Debug
+		{72626F23-DCD4-F6D1-3B6F-5DA7197DB67E}.Beta - EEB460|x86.ActiveCfg = Debug
+		{72626F23-DCD4-F6D1-3B6F-5DA7197DB67E}.Beta|x64.ActiveCfg = Debug
+		{72626F23-DCD4-F6D1-3B6F-5DA7197DB67E}.Beta|x86.ActiveCfg = Debug
+		{72626F23-DCD4-F6D1-3B6F-5DA7197DB67E}.Debug|x64.ActiveCfg = Debug
+		{72626F23-DCD4-F6D1-3B6F-5DA7197DB67E}.Debug|x86.ActiveCfg = Debug
+		{72626F23-DCD4-F6D1-3B6F-5DA7197DB67E}.Documentation|x64.ActiveCfg = Release
+		{72626F23-DCD4-F6D1-3B6F-5DA7197DB67E}.Documentation|x86.ActiveCfg = Release
+		{72626F23-DCD4-F6D1-3B6F-5DA7197DB67E}.EEB460|x64.ActiveCfg = Debug
+		{72626F23-DCD4-F6D1-3B6F-5DA7197DB67E}.EEB460|x86.ActiveCfg = Debug
+		{72626F23-DCD4-F6D1-3B6F-5DA7197DB67E}.Release|x64.ActiveCfg = Release
+		{72626F23-DCD4-F6D1-3B6F-5DA7197DB67E}.Release|x86.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
